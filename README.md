@@ -1,4 +1,6 @@
-Mod utilizare program:
+# RI Visualizer
+- A tool for visualizing the incidence rate data provided by the Romanian government
+## Usage (in Romanian)
 
 1. Instalati python (poate fi facut direct din microsoft store 
 sau de pe "https://www.python.org/downloads/");
